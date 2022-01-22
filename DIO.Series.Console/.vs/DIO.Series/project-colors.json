@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33511a47-4c12-47c4-a583-1371c1c8ecb7": {
+      "ProjectGuid": "33511a47-4c12-47c4-a583-1371c1c8ecb7",
+      "DisplayName": "DIO.Series.Console",
+      "ColorIndex": 0
+    },
+    "c6902d3d-0f3b-4c1a-a31d-9d84d25e643b": {
+      "ProjectGuid": "c6902d3d-0f3b-4c1a-a31d-9d84d25e643b",
+      "DisplayName": "DIO.Series",
+      "ColorIndex": 1
+    },
+    "9a224d35-dd48-4b30-a8ff-7c26b9ea8175": {
+      "ProjectGuid": "9a224d35-dd48-4b30-a8ff-7c26b9ea8175",
+      "DisplayName": "DIO.Series.Web",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
